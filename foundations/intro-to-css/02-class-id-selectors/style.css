@@ -1,4 +1,13 @@
-p {
+.odd {
     background-color: rgb(225, 181, 187);
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
 }
